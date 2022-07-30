@@ -1,0 +1,1 @@
+# auto_installer_scpsl_and_exiled
