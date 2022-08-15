@@ -3,7 +3,7 @@
 ![Discord](https://img.shields.io/discord/988571570521903154?color=blue&label=DISCORD&style=for-the-badge)
 1. Скачиваем скрипт на linux сервер
 
-    `wget https://raw.githubusercontent.com/menleev/scpsl_installer/main/installer.sh`
+    `wget https://raw.githubusercontent.com/menleev/auto_installer_scpsl_and_exiled/main/installer.sh`
 
    1.2 Выдаем права `installer.sh` вводим `chmod +x installer.sh`
 
